@@ -1,4 +1,3 @@
-// Copyright © 2020 AlgoExpert, LLC. All rights reserved.
 class LinkedList {
   constructor(value) {
     this.value = value;
