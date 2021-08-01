@@ -1,4 +1,3 @@
-// Copyright © 2020 AlgoExpert, LLC. All rights reserved.
 // O(j + d) time | O(j + d) space
 function topologicalSort(jobs, deps) {
   const jobGraph = createJobGraph(jobs, deps);
