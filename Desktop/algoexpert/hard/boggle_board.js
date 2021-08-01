@@ -1,4 +1,3 @@
-// Copyright © 2020 AlgoExpert, LLC. All rights reserved.
 // O(nm*8^s + ws) time | O(nm + ws) space
 function boggleBoard(board, words) {
   const trie = new Trie();
